@@ -9,7 +9,7 @@ API_KEY = "96b611a7cf5b169339daf2387127668c"
 # ---------------- THEME ----------------
 st.set_page_config(
     NimbusAI="",
-    page_icon="🌤️",
+    page_icon="https://chatgpt.com/s/m_69f56085e94c81919644b871d5dcf1c5",
     layout="centered"
 )
 
