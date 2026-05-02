@@ -8,7 +8,7 @@ API_KEY = "96b611a7cf5b169339daf2387127668c"
 
 # ---------------- THEME ----------------
 st.set_page_config(
-    page_title="AI Weather Bot",
+    NimbusAI="",
     page_icon="🌤️",
     layout="centered"
 )
